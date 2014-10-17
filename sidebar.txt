@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fad:home|Door43 (fad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fad|d43-fad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fad/archive/master.zip|d43-fad.zip]]
+
+**Recent Changes**
+{{changes>ns = fad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fad|Ethnologue data]]
+
